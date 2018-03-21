@@ -1,0 +1,10 @@
+palatial 			d2
+college 			d1 d4 d9
+palatial college		NULL
+college supermarket		d4
+famous aggie supermarket 	d4 d7
+
+
+famous 				d4 d7
+aggie 				d4 d7
+supermarket 			d4 d7
